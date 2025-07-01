@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/LaVistaLVtoken/LaVistaLV/blob/main/lv_token_logo_transparent.png?raw=true" alt="La Vista Token Logo" width="200"/>
+</p>
 # La Vista Token (LV)
 
 **Official ERC-20 Token for Exclusive Payments in Punta del Este, Uruguay.**  
