@@ -1,0 +1,19 @@
+{
+  "name": "Lista Oficial La Vista LV",
+  "timestamp": "2025-07-03T16:55:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xAf8B7e816868bd97c80740900fb7a6c7632fc5dC2",
+      "symbol": "LV",
+      "name": "La Vista Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/LaVistaLVtoken/LaVistaLV/main/lv_token_logo_transparent.png"
+    }
+  ]
+}
