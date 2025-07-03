@@ -6,14 +6,21 @@
     "minor": 0,
     "patch": 0
   },
+  "tags": {
+    "community": {
+      "name": "Community",
+      "description": "Tokens pertenecientes a la comunidad de La Vista"
+    }
+  },
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAf8B7e816868bd97c80740900fb7a6c7632fc5dC2",
+      "address": "0xAf8B7e81668dB9c7c80740900f7ba67c7632f5dC2",
       "symbol": "LV",
       "name": "La Vista Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/LaVistaLVtoken/LaVistaLV/main/lv_token_logo_transparent.png"
+      "logoURI": "https://raw.githubusercontent.com/LaVistaLVtoken/LaVistaLV/main/lv_token_logo_transparent.png",
+      "tags": ["community"]
     }
   ]
 }
