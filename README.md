@@ -1,74 +1,77 @@
-<p align="center">
-  <img src="https://github.com/LaVistaLVtoken/LaVistaLV/blob/main/lv_token_logo_transparent.png?raw=true" alt="La Vista Token Logo" width="200"/>
-</p>
+
+![LV Logo](./lv_token_logo_transparent.png)
 
 # La Vista Token (LV)
 
+**Version 1.0 — ERC-20 Standard — Solidity ^0.8.20**
+
 **Official ERC-20 Token for Exclusive Payments in Punta del Este, Uruguay.**  
-LV is the utility token accepted at the iconic rotating restaurant *La Vista 360°*, the Art Gallery in El Torreón, and the Hotel Concorde.  
+LV is the utility token accepted at the iconic rotating restaurant *La Vista 360°*, the Art Gallery in *El Torreón*, and the *Hotel Concorde*.  
 It is built on the Ethereum blockchain and tradable on Uniswap.
 
 ---
 
-## 📘 WHITEPAPER
+## 📄 Whitepaper
 
-### What is La Vista Token (LV)?
-
-La Vista Token (LV) is an ERC-20 utility token created to facilitate exclusive payments for premium experiences in Punta del Este, Uruguay.  
-LV is designed for art enthusiasts, fine dining lovers, and travelers seeking unique, high-quality experiences.
-
-**LV can be used to:**
-- Pay for physical artwork available at the *La Vista Art Gallery* in El Torreón.
-- Pay for luxury dining at *La Vista 360°*, the tallest rotating restaurant in South America.
-- Pay for accommodations at *Hotel Concorde* and private apartments in El Torreón.
-
-All these services are part of the **La Vista ecosystem**, a blend of art, gastronomy, and hospitality overlooking the coast of Uruguay.
-
-**Smart Contract:**  
-[View on Etherscan](https://etherscan.io/token/0xbc6550bef072fEA5413f801f898fadef23cA004a)
-
-**Buy on Uniswap:**   
-`https://app.uniswap.org/explore/tokens/ethereum/0xbc6550bef072fEA5413f801f898fadef23cA004a`
-
-**Official Website:**  
-[https://lavistalv.com](https://lavistalv.com)
+Access the full whitepaper here:  
+📄 [LV Whitepaper on IPFS (Pinata)](https://gateway.pinata.cloud/ipfs/bafybeiabdclcthepoew34xbvm7egbh46ew2fe3vixm72bjlrqplpiahamu)
 
 ---
 
-## 🚀 ROADMAP
+## 🗺️ Roadmap
 
-### 2024 – Phase 1: Foundation
-- Verified contract and listing on Uniswap.
-- Website launch.
-- Opening of La Vista Art Gallery to the public.
-- Gallery begins accepting LV as payment.
+### **Phase 1 – Launch (✅ Completed)**  
+- Token creation and deployment on Ethereum  
+- Smart contract verified on Etherscan  
+- Website launched: [lavistalv.com](https://lavistalv.com)
 
-### 2025 – Phase 2: Expansion
-- Integration of LV token payments at La Vista 360° Restaurant.
-- Integration of LV token payments at Hotel Concorde and El Torreón apartments.
-- On-site promotion and QR payment systems.
-- Public marketing and early holder community formation.
-- Pinata + GitHub integration for open documentation.
-  
-### 2026 – Phase 3: Utility Growth
-- NFT-linked certificates of artwork (optional future step).
-- Token gated events or gallery previews.
-- Partnership with travel and lifestyle influencers.
-- Exploration of token payments for luxury travel packages.
+### **Phase 2 – Community & Infrastructure (🛠 In Progress)**  
+- Whitepaper publication  
+- Social media presence: Instagram & X  
+- Gallery art integration for real-world token usage  
+- Community engagement and first partnerships
+
+### **Phase 3 – Adoption & Expansion (📍 Upcoming)**  
+- Full token integration for dinners and lodging  
+- NFT development for certified physical artwork  
+- Listings on CoinGecko & CoinMarketCap  
+- Additional DEX liquidity pools
 
 ---
 
-## 🌐 COMMUNITY & LINKS
+## 🛍️ Real-World Utility
 
-Stay updated and be part of the LV community:
+LV Token can be used to pay for:
 
-- 🔗 Website: [lavistalv.com](https://lavistalv.com)  
+- 🖼️ Art purchases at the *La Vista* gallery  
+- 🍽️ Fine dining at *La Vista 360°* rotating restaurant  
+- 🏨 Hotel stays and apartment rentals at *El Torreón* or *Hotel Concorde*  
+- 💎 Future possibilities: digital art, NFT-certified ownership, tourism perks
 
-- 🔎 Etherscan: [LV Token Contract](https://etherscan.io/token/0xbc6550bef072fEA5413f801f898fadef23cA004a)  
-- 💱 Buy on Uniswap:  
-`https://app.uniswap.org/explore/tokens/ethereum/0xbc6550bef072fEA5413f801f898fadef23cA004a`
+---
 
-### Social Media
-- 📸 Instagram: [@lavistalvtoken](https://www.instagram.com/lavistalvtoken)  
-- 🐦 Twitter/X: [@lavistalvtoken](https://x.com/lavistalvtoken)  
+## 🌍 Community & Vision
 
+LV is not a meme coin, nor a speculative pump-and-dump.  
+It is a **cultural currency** tied to tangible experiences. We believe in:
+
+- 🧠 Value through art and real-world purpose  
+- ❤️ Selective, committed community  
+- 🤝 Responsible use for meaningful exchange  
+
+---
+
+## 🔗 Official Links
+
+- 🌐 Website: [https://lavistalv.com](https://lavistalv.com)  
+- 🔍 Etherscan: [Smart Contract](https://etherscan.io/token/0xb655bfe072fEA5431f801f898fadef23cA004a)  
+- 🐦 Twitter (X): [@LaVistaLVToken](https://x.com/lavistalvtoken)  
+- 📸 Instagram: [@lavistalvtoken](https://instagram.com/lavistalvtoken)  
+- ✉️ Email: info@lavistalv.com  
+- 📄 [Smart Contract Source Code](./contracts/LaVistaToken.sol)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) for details.
