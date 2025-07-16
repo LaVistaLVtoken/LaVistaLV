@@ -15,7 +15,8 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAf8B7e81668dB9c7c80740900f7ba67c7632f5dC2",
+      "address": "0xbc6550bef072fEA5413f801f898fadef23cA004a",
+
       "symbol": "LV",
       "name": "La Vista Token",
       "decimals": 18,
