@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/LaVistaLVtoken/LaVistaLV/blob/main/lv_token_logo_transparent.png?raw=true" alt="La Vista Token Logo" width="200"/>
 </p>
+
 # La Vista Token (LV)
 
 **Official ERC-20 Token for Exclusive Payments in Punta del Este, Uruguay.**  
@@ -24,10 +25,10 @@ LV is designed for art enthusiasts, fine dining lovers, and travelers seeking un
 All these services are part of the **La Vista ecosystem**, a blend of art, gastronomy, and hospitality overlooking the coast of Uruguay.
 
 **Smart Contract:**  
-[View on Etherscan](https://etherscan.io/token/0xAf8B7e81668Bd97c80740900fB7A6C7632fc5dC2)
+[View on Etherscan](https://etherscan.io/token/0xbc6550bef072fEA5413f801f898fadef23cA004a)
 
-**Buy on Uniswap:**  
-[Uniswap Trade Link](https://app.uniswap.org/explore/tokens/ethereum/0xaf8b7e81668bd97c80740900fb7a6c7632fc5dc2)
+**Buy on Uniswap:**   
+`https://app.uniswap.org/explore/tokens/ethereum/0xbc6550bef072fEA5413f801f898fadef23cA004a`
 
 **Official Website:**  
 [https://lavistalv.com](https://lavistalv.com)
@@ -37,7 +38,6 @@ All these services are part of the **La Vista ecosystem**, a blend of art, gastr
 ## 🚀 ROADMAP
 
 ### 2024 – Phase 1: Foundation
-- Launch of LV Token (ERC-20) on Ethereum.
 - Verified contract and listing on Uniswap.
 - Website launch.
 - Opening of La Vista Art Gallery to the public.
@@ -63,15 +63,12 @@ All these services are part of the **La Vista ecosystem**, a blend of art, gastr
 Stay updated and be part of the LV community:
 
 - 🔗 Website: [lavistalv.com](https://lavistalv.com)  
-- 🧠 Whitepaper (Pinata IPFS): [Whitepaper PDF](https://coffee-neighbouring-boa-680.mypinata.cloud/ipfs/bafybeievg4vnccztybvljdhu7uvijr5tjtjh4xptcucklkmvrt3utuglgi)  
-- 🔎 Etherscan: [LV Token Contract](https://etherscan.io/token/0xAf8B7e81668Bd97c80740900fB7A6C7632fc5dC2)  
-- 💱 Buy on Uniswap: [Uniswap App](https://app.uniswap.org/explore/tokens/ethereum/0xaf8b7e81668bd97c80740900fb7a6c7632fc5dc2)
+
+- 🔎 Etherscan: [LV Token Contract](https://etherscan.io/token/0xbc6550bef072fEA5413f801f898fadef23cA004a)  
+- 💱 Buy on Uniswap:  
+`https://app.uniswap.org/explore/tokens/ethereum/0xbc6550bef072fEA5413f801f898fadef23cA004a`
 
 ### Social Media
 - 📸 Instagram: [@lavistalvtoken](https://www.instagram.com/lavistalvtoken)  
 - 🐦 Twitter/X: [@lavistalvtoken](https://x.com/lavistalvtoken)  
-
----
-
-> Powered by La Vista LV TOKEN – Art, Gastronomy, and Vision.
 
