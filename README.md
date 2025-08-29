@@ -12,7 +12,7 @@ Its purpose is to enable digital payments across **hospitality, gastronomy, and 
 ## 🔑 Key Features
 - ✅ ERC-20 token on Ethereum.  
 - ✅ Focused on **art, hospitality, and gastronomy**.  
-- ✅ Backed by the brand **La Vista 360° Punta del Este**.  
+- ✅ Backed by the **La Vista 360° Punta del Este** brand.  
 - ✅ Expanding ecosystem with future integration in venues and experiences.  
 
 ---
@@ -21,22 +21,21 @@ Its purpose is to enable digital payments across **hospitality, gastronomy, and 
 The official logo package is available in multiple formats:
 
 - PNG: 64, 128, 256, 512, 1024, 2048, 3000 px  
-- SVG: vector version  
 - Favicon `.ico` for web usage  
+- (Optional) SVG vector version  
 
-👉 Find all assets inside the [`lv_logo_pack`](./lv_logo_pack) folder.
-
----
-
-## 📄 License
-This repository is licensed under the [MIT License](./LICENSE).
+👉 All assets are located in the [lv_logo_pack](./lv_logo_pack) folder.
 
 ---
 
-## 🌐 Links
-- 🌍 [Official Website](https://lavistalv.com)  
-- 📊 [Etherscan Contract](https://etherscan.io/token/0xd1de603884e6424241caf53efa846e7c6163755c)  
-- 💧 [Uniswap Pool](https://app.uniswap.org/explore/tokens/ethereum/0xd1de603884e6424241caf53efa846e7c6163755c)  
-- 🐦 [Twitter/X](https://x.com/lavistalvtoken)  
-- 📸 [Instagram](https://instagram.com/lavistalvtoken)  
+## 🌐 Official Links
+- 🌎 Website: [lavistalv.com](https://lavistalv.com)  
+- 📊 Etherscan: [LV Contract on Ethereum](https://etherscan.io/token/0xbc6550bef072fEA5413f801f898fadef23cA004a)  
+- 💧 Uniswap Pool: [Trade LV on Uniswap](https://app.uniswap.org/#/tokens/ethereum/0xbc6550bef072fEA5413f801f898fadef23cA004a)  
+- 🐦 Twitter/X: [@LaVistaLVtoken](https://x.com/LaVistaLVtoken)  
+- 📸 Instagram: [@lavistalvtoken](https://instagram.com/lavistalvtoken)  
 
+---
+
+## 📜 License
+This repository and its assets are licensed under the **MIT License**.
