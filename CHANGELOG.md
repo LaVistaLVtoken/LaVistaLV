@@ -25,3 +25,4 @@ Future changes will follow [Semantic Versioning](https://semver.org/):
 - **MAJOR (v2.0.0):** Breaking changes or major rebranding.  
 - **MINOR (v1.1.0):** New assets, small updates to README or links.  
 - **PATCH (v1.0.1):** Minor fixes (typos, corrections, asset replacement).
+.
