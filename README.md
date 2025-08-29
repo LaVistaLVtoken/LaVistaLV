@@ -38,4 +38,4 @@ The official logo package is available in multiple formats:
 ---
 
 ## 📜 License
-This repository and its assets are licensed under the **MIT License**.
+This repository and its assets are licensed under the **MIT License**..
